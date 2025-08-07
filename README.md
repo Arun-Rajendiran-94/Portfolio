@@ -18,7 +18,7 @@ Git - for better work in development team and controlling software versions
 GitHub - supporting Git and preparing my repositories
 Markdown - for better and easy formatting GitHub
 Xampp - practicing SQL
-Postman - API testing-https://www.postman.com/arun-rajendiran/workspace/automation-testing/request/38663927-65ea2d10-a796-433f-92e0-7a38964a27e0?action=share&creator=38663927&ctx=documentation&active-environment=38663927-ddf2690c-6f4f-407e-a60d-8de3b0c9486d
+Postman - API testing
 Pycharm - IDE for Python
 Selenium
 Robot framework
